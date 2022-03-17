@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.baboai.hdwalletkit.HDWalletTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-16T23:26:49" hostname="SeungHocBookPro" time="0.035">
+  <properties/>
+  <testcase name="receiveAddress_correctAddress_mainNet" classname="com.baboai.hdwalletkit.HDWalletTest" time="0.01"/>
+  <testcase name="privateKey" classname="com.baboai.hdwalletkit.HDWalletTest" time="0.003"/>
+  <testcase name="changeAddress_correctAddress_testNet" classname="com.baboai.hdwalletkit.HDWalletTest" time="0.003"/>
+  <testcase name="testBatchPublicKeysGeneration" classname="com.baboai.hdwalletkit.HDWalletTest" time="0.013"/>
+  <testcase name="receiveAddress_correctAddress_testNet" classname="com.baboai.hdwalletkit.HDWalletTest" time="0.001"/>
+  <testcase name="changeAddress_correctPublicKey" classname="com.baboai.hdwalletkit.HDWalletTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
