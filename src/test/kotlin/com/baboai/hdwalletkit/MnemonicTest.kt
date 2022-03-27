@@ -1,4 +1,4 @@
-package com.baboai.hdwalletkit
+package com.baboaisystem.hdwalletkit
 
 
 import com.nhaarman.mockito_kotlin.whenever

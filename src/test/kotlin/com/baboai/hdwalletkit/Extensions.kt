@@ -1,4 +1,4 @@
-package com.baboai.hdwalletkit
+package com.baboaisystem.hdwalletkit
 
 fun ByteArray.toHexString(): String {
     return this.joinToString(separator = "") {

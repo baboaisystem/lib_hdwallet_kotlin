@@ -1,4 +1,4 @@
-package com.baboai.hdwalletkit
+package com.baboaisystem.hdwalletkit
 
 import org.junit.Assert.assertArrayEquals
 import org.junit.Assert.assertEquals
